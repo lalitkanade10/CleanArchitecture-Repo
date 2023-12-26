@@ -1,0 +1,17 @@
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Application.dll
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Application.pdb
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Youtube\CleanArchitecture\CleanArchitecture\Persistence\obj\Debug\net6.0\ref\Persistence.dll
